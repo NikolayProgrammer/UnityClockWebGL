@@ -48,32 +48,6 @@ ExportedObj/
 *.opendb
 *.VC.db
 
-# MyAdditions
-*.png
-*.meta
-*.dll
-*.TXT
-*.json
-*.asset
-*.txt
-*.ttf
-*.jslib
-*.prefab
-/Builds
-/Library
-/Logs
-/obj
-/Packages
-/ProjectSettings
-/UserSettings
-/Assets/Plugins
-/Assets/Resources
-/Assets/Scenes
-/Assets/Settings
-/Assets/TextMesh Pro
-/Assets/WebGLTemplates
-/Assets/YandexGame
-
 
 # Unity3D generated meta files
 *.pidb.meta

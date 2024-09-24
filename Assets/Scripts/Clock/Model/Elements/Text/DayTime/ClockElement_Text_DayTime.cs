@@ -1,7 +1,7 @@
 using System;
 
 /// <summary>
-/// Текстовый элемент часов - время суток (ЧЧ:ММ:СС)
+/// Clock text element - day of time (HH:mm:ss)
 /// </summary>
 public class ClockElement_Text_DayTime : ClockElement_Text
 {

@@ -1,7 +1,7 @@
 using System;
 
 /// <summary>
-/// Интерфейс объекта, который включается/выключается по ходу работы
+/// Interface of object that can be toggled
 /// </summary>
 public interface IToggleable
 {

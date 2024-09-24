@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 /// <summary>
-/// Изменение картинки по isToggle у IToggleable
+/// Changing the image by isToggle in IToggleable
 /// </summary>
 public class UI_Toggle_Image : MonoBehaviour
 {

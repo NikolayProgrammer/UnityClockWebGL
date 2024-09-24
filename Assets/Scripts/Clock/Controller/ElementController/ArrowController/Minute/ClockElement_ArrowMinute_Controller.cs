@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 
 /// <summary>
-/// Контроллер минутной стрелки
+/// Minute arrow controller
 /// </summary>
 public class ClockElement_Arrow_Minute_Controller : ClockElement_Arrow_Controller
 {
@@ -21,7 +21,6 @@ public class ClockElement_Arrow_Minute_Controller : ClockElement_Arrow_Controlle
         }
     }
 
-    // Кеширование переменных
     private int minute;
 
     protected override void SetClockTimeFromArrowRotation()
@@ -35,7 +34,6 @@ public class ClockElement_Arrow_Minute_Controller : ClockElement_Arrow_Controlle
                 minute = 0;
             }
 
-            // Мы задаём часам их же время, но меняем минуты
             clock.SetDateTime(new DateTime
                 (clock.currentClockDateTime.Ticks
 

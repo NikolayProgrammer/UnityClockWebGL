@@ -4,22 +4,22 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /// <summary>
-/// Базовый класс часов
+/// Clock base class
 /// </summary>
 public class Clock : MonoBehaviour, IToggleable
 {
     /// <summary>
-    /// Часы включились/выключились (bool isToggle)
+    /// Clock toggled (bool isToggle)
     /// </summary>
     public event Action Toggle_Event;
 
     /// <summary>
-    /// Часы работают либо будут работать при включении объекта
+    /// Clock is working or will work on enable
     /// </summary>
     public bool isToggle { get; protected set; }
 
     /// <summary>
-    /// Элементы часов (стрелки, дисплей и пр.)
+    /// Clock elements (arrows, text-display, etc.)
     /// </summary>
     [SerializeField] protected List<ClockElement> elements = new List<ClockElement>();
 
@@ -28,13 +28,10 @@ public class Clock : MonoBehaviour, IToggleable
     protected double startDateTimeSetDelay;
 
     /// <summary>
-    /// Часы идут не останавливаясь/выключаясь с последнего SetDateTime()
+    /// Clock is working without stopping or disabling since last SetDateTime()
     /// </summary>
     public bool isSynchronized { get; protected set; }
 
-    /// <summary>
-    /// Вкл/выкл часы 
-    /// </summary>
     public virtual void ToggleClock()
     {
         if (isToggle)
@@ -45,9 +42,6 @@ public class Clock : MonoBehaviour, IToggleable
         StartClock();
     }
 
-    /// <summary>
-    /// Возобновить ход часов
-    /// </summary>
     public virtual void StartClock()
     {
         if (!isToggle)
@@ -60,9 +54,6 @@ public class Clock : MonoBehaviour, IToggleable
         }
     }
 
-    /// <summary>
-    /// Остановить ход часов
-    /// </summary>
     public virtual void StopClock()
     {
         if (isToggle)
@@ -73,9 +64,6 @@ public class Clock : MonoBehaviour, IToggleable
         }
     }
 
-    /// <summary>
-    /// Задать часам начало отсчёта
-    /// </summary>
     public virtual void SetDateTime(DateTime dateTime)
     {
         startDateTime = dateTime;
@@ -88,9 +76,6 @@ public class Clock : MonoBehaviour, IToggleable
         UpdateElements();
     }
 
-    /// <summary>
-    /// Запустить часы с заданного времени
-    /// </summary>
     public virtual void SetDateTimeAndStartClock(DateTime dateTime)
     {
         StartClock();

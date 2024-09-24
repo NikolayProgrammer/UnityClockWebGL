@@ -1,7 +1,7 @@
 using UnityEngine;
 
 /// <summary>
-/// Абстрактный класс стрелки часов
+/// Abstract clock arrow
 /// </summary>
 public abstract class ClockElement_Arrow : ClockElement
 {

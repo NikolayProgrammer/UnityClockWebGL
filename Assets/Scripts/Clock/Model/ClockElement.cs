@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 
 /// <summary>
-/// Абстрактный класс элемента часов
+/// Abstract clock element
 /// </summary>
 public abstract class ClockElement : MonoBehaviour
 {

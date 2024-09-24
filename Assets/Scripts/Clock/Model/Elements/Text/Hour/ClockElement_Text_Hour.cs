@@ -1,7 +1,7 @@
 using System;
 
 /// <summary>
-/// Текстовый элемент часов - час (ЧЧ)
+/// Clock text element - hour (HH)
 /// </summary>
 public class ClockElement_Text_Hour : ClockElement_Text
 {

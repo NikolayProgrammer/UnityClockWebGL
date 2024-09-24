@@ -3,22 +3,22 @@ using System.Collections;
 using UnityEngine;
 
 /// <summary>
-/// Управление глобальным временем приложения
+/// Controlling global app time
 /// </summary>
 public class AppTime_Manager : MonoBehaviour
 {
     /// <summary>
-    /// Приложение установило новое глобальное время
+    /// App has set new global time
     /// </summary>
     public static Action onNewAppTimeSet_Event;
 
     /// <summary>
-    /// Актуальное время приложения
+    /// App actual global time
     /// </summary>
     public static DateTime appActualDateTime { get; private set; }
 
     [SerializeField] private AppTime_Reciever reciever;
-    private AppTime_Handler handler = new();
+    private AppTime_Calculator calculator = new();   
 
     private void Awake()
     {
@@ -30,7 +30,7 @@ public class AppTime_Manager : MonoBehaviour
     {
         appActualDateTime = dateTime;
 
-        handler.SetAppDateTime(dateTime);
+        calculator.SetAppDateTime(dateTime);
         StartCoroutine(UpdateGlobalTime_COR());
         StartCoroutine(CheckForCorrection_COR());
 
@@ -41,7 +41,7 @@ public class AppTime_Manager : MonoBehaviour
     {
         while (true)
         {
-            appActualDateTime = handler.GetActualAppDateTime();
+            appActualDateTime = calculator.GetActualAppDateTime();
             yield return null;
         }
     }

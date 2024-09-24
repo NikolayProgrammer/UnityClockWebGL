@@ -2,7 +2,7 @@ using UnityEngine;
 using TMPro;
 
 /// <summary>
-/// Абстрактный класс текстового поля часов
+/// Abstract clock text element
 /// </summary>
 public abstract class ClockElement_Text : ClockElement
 {

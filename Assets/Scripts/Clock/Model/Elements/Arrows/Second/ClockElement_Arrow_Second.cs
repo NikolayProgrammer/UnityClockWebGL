@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 
 /// <summary>
-/// Секундная стрелка
+/// Second arrow
 /// </summary>
 public class ClockElement_Arrow_Second : ClockElement_Arrow
 {

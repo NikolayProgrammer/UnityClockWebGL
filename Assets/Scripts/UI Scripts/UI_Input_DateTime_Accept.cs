@@ -4,7 +4,7 @@ using TMPro;
 using UnityEngine;
 
 /// <summary>
-/// Передача часам времени с текстового ввода
+/// Transferring DateTime to clock from text input
 /// </summary>
 public class UI_Input_DateTime_Accept : MonoBehaviour
 {

@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 
 /// <summary>
-/// Часовая стрелка
+/// Hour arrow
 /// </summary>
 public class ClockElement_Arrow_Hour : ClockElement_Arrow
 {

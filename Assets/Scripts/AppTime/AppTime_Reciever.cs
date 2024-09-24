@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.Networking;
 
 /// <summary>
-/// «апрос и получение глобального времени
+/// Request for new global app time
 /// </summary>
 public class AppTime_Reciever : MonoBehaviour
 {
@@ -22,9 +22,6 @@ public class AppTime_Reciever : MonoBehaviour
     DateTime recievedDateTime;
     string str_date;
 
-    /// <summary>
-    /// ќтправить запросы на получение глобального времени
-    /// </summary>
     public IEnumerator RequestAppTime_COR()
     {
         foreach (var url in URLs)
@@ -59,7 +56,7 @@ public class AppTime_Reciever : MonoBehaviour
             }
         }
 
-        // ћожем добавить на этот случай добавить специальное событие и запускать метод заново через врем€, уведомл€ть игрока и тд. и тп.
+        // In this case we could add specfic events like onAppUseLocalTime or etc.
         Debug.Log($"All Http requests failed. Return device time {DateTime.Now.ToString("HH:mm:ss")}");
         recievedDateTime = DateTime.Now;
         onRequestAppTimeEnded_Event?.Invoke(recievedDateTime);

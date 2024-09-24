@@ -1,34 +1,22 @@
-using System.Collections;
+п»їusing System.Collections;
 using UnityEngine;
 using TMPro;
 using System;
 
 /// <summary>
-/// Установка числовых значений с ограничениями и переходами
+/// Setting numeric values вЂ‹вЂ‹with limits and transitions
 /// </summary>
 public class UI_Input_Number : MonoBehaviour
 {
     private TMP_InputField inputField;
 
     /// <summary>
-    /// Следующее поле (если есть)
+    /// Next input field (if need)
     /// </summary>
     [SerializeField] private TMP_InputField next_InputField;
 
-    /// <summary>
-    /// Максимальная длина ввода
-    /// </summary>
     [SerializeField] private int inputLength = 3;
-
-    /// <summary>
-    /// Минимальное значения ввода
-    /// </summary>
-    /// 
     [SerializeField] private int minValue = 1;
-
-    /// <summary>
-    /// Максимальное значения ввода
-    /// </summary>
     [SerializeField] private int maxValue = 999;
 
     private void Start()

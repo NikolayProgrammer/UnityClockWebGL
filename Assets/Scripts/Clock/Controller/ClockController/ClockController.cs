@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 
 /// <summary>
-/// Простой скрипт для демонстрации взаимодействия с часами
+/// Simple script for clock controlling demonstration
 /// </summary>
 public class ClockController : MonoBehaviour
 {

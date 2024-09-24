@@ -4,23 +4,13 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /// <summary>
-/// Редактор времени на часах
+/// Clock time editor
 /// </summary>
 public class Clock_SetTime_Editor : MonoBehaviour
 {
-    /// <summary>
-    /// Часы, с которыми мы работаем
-    /// </summary>
     [SerializeField] Clock clock;
 
-    /// <summary>
-    /// Время на часах ДО редактирования
-    /// </summary>
     private DateTime clockDateTimeBeforeEdit;
-
-    /// <summary>
-    /// Были ли часы включены ДО редактирования
-    /// </summary>
     private bool clockIsToggleBeforeEdit;
 
     public void StartEdit()

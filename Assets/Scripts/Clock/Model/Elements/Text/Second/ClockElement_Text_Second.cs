@@ -1,7 +1,7 @@
 using System;
 
 /// <summary>
-/// Текстовый элемент часов - секунда (СС)
+/// Clock text element - second (ss)
 /// </summary>
 public class ClockElement_Text_Second : ClockElement_Text
 {

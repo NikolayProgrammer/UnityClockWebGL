@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 
 /// <summary>
-/// Контроллер секундной стрелки
+/// Second arrow controller
 /// </summary>
 public class ClockElement_Arrow_Second_Controller : ClockElement_Arrow_Controller
 {
@@ -21,7 +21,6 @@ public class ClockElement_Arrow_Second_Controller : ClockElement_Arrow_Controlle
         }
     }
 
-    // Кеширование переменных
     private double second;
 
     protected override void SetClockTimeFromArrowRotation()
@@ -35,7 +34,6 @@ public class ClockElement_Arrow_Second_Controller : ClockElement_Arrow_Controlle
                 second = 0;
             }
 
-            // Мы задаём часам их же время, но меняем секунды
             clock.SetDateTime(new DateTime
                 (clock.currentClockDateTime.Ticks
 

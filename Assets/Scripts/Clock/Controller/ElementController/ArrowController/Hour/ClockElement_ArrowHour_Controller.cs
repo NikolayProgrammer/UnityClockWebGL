@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /// <summary>
-/// Контроллер часовой стрелки (не работает!)
+/// Hour arrow controller (doesn't work!)
 /// </summary>
 public class ClockElement_Arrow_Hour_HandController : ClockElement_Arrow_Controller
 {
@@ -31,13 +31,16 @@ public class ClockElement_Arrow_Hour_HandController : ClockElement_Arrow_Control
         }
     }
 
-    // Кеширование переменных
     private int hour;
     private int past_hour;
     private bool firstCircle;
 
     protected override void SetClockTimeFromArrowRotation()
     {
+        // Ya ne ponyal kak eto sdelat :C
+        // pomogite...
+
+        /*
         if (clock != null)
         {
             if (clock.currentClockDateTime.Hour < 12)
@@ -49,13 +52,6 @@ public class ClockElement_Arrow_Hour_HandController : ClockElement_Arrow_Control
                 firstCircle = false;
             }
 
-            // Я не понял, как сделать котроллер часовой стрелки :c
-            // Надо учитывать, в каком круге мы находимся (0-12, 12-24)
-            // Но это оказалась совсем нетривиальная задача
-            // Возможно, стоило бы реализовать двойной циферблат для выбора
-            // Но я уже и так долго сижу с этим заданием...
-
-            // Мы задаём часам их же время, но меняем часы
             clock.SetDateTime(new DateTime
                 (clock.currentClockDateTime.Ticks
 
@@ -67,5 +63,6 @@ public class ClockElement_Arrow_Hour_HandController : ClockElement_Arrow_Control
             );
             past_hour = hour;
         }
+        */
     }
 }

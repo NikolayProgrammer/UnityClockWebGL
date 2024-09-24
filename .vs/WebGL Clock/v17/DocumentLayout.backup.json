@@ -1,0 +1,478 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnityProjects\\WebGL Clock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{398BD1C8-9748-B2DF-B414-1AEC22EB89F4}|AppTime.csproj|c:\\unityprojects\\webgl clock\\assets\\scripts\\apptime\\apptime_reciever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398BD1C8-9748-B2DF-B414-1AEC22EB89F4}|AppTime.csproj|solutionrelative:assets\\scripts\\apptime\\apptime_reciever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398BD1C8-9748-B2DF-B414-1AEC22EB89F4}|AppTime.csproj|C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\AppTime\\AppTime_Calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398BD1C8-9748-B2DF-B414-1AEC22EB89F4}|AppTime.csproj|solutionrelative:Assets\\Scripts\\AppTime\\AppTime_Calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398BD1C8-9748-B2DF-B414-1AEC22EB89F4}|AppTime.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\apptime\\apptime_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398BD1C8-9748-B2DF-B414-1AEC22EB89F4}|AppTime.csproj|solutionrelative:assets\\scripts\\apptime\\apptime_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\clock\\controller\\clockcontroller\\clockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clock\\controller\\clockcontroller\\clockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\clock\\controller\\elementcontroller\\arrowcontroller\\hour\\clockelement_arrowhour_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clock\\controller\\elementcontroller\\arrowcontroller\\hour\\clockelement_arrowhour_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\clock\\controller\\elementcontroller\\arrowcontroller\\minute\\clockelement_arrowminute_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clock\\controller\\elementcontroller\\arrowcontroller\\minute\\clockelement_arrowminute_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\clock\\controller\\elementcontroller\\arrowcontroller\\second\\clockelement_arrowsecond_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clock\\controller\\elementcontroller\\arrowcontroller\\second\\clockelement_arrowsecond_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\clock\\controller\\elementcontroller\\arrowcontroller\\clockelement_arrow_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clock\\controller\\elementcontroller\\arrowcontroller\\clockelement_arrow_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\clock\\controller\\elementcontroller\\clockelement_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clock\\controller\\elementcontroller\\clockelement_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\clock\\controller\\settimeeditor\\clock_settime_editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clock\\controller\\settimeeditor\\clock_settime_editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\ui scripts\\ui_input_datetime_accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui scripts\\ui_input_datetime_accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\ui scripts\\ui_input_number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui scripts\\ui_input_number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\ui scripts\\ui_toggle_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01752CAE-195E-CC46-27EA-DF6C4BD3373C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui scripts\\ui_toggle_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\clock\\model\\elements\\arrows\\hour\\clockelement_arrow_hour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|solutionrelative:assets\\scripts\\clock\\model\\elements\\arrows\\hour\\clockelement_arrow_hour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\clock\\model\\elements\\arrows\\minute\\clockelement_arrow_minute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|solutionrelative:assets\\scripts\\clock\\model\\elements\\arrows\\minute\\clockelement_arrow_minute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\clock\\model\\elements\\arrows\\second\\clockelement_arrow_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|solutionrelative:assets\\scripts\\clock\\model\\elements\\arrows\\second\\clockelement_arrow_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\clock\\model\\elements\\arrows\\clockelement_arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|solutionrelative:assets\\scripts\\clock\\model\\elements\\arrows\\clockelement_arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\clock\\model\\elements\\text\\daytime\\clockelement_text_daytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|solutionrelative:assets\\scripts\\clock\\model\\elements\\text\\daytime\\clockelement_text_daytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\clock\\model\\elements\\text\\hour\\clockelement_text_hour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|solutionrelative:assets\\scripts\\clock\\model\\elements\\text\\hour\\clockelement_text_hour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\clock\\model\\elements\\text\\minute\\clockelement_text_minute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|solutionrelative:assets\\scripts\\clock\\model\\elements\\text\\minute\\clockelement_text_minute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\clock\\model\\elements\\text\\second\\clockelement_text_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|solutionrelative:assets\\scripts\\clock\\model\\elements\\text\\second\\clockelement_text_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\clock\\model\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|solutionrelative:assets\\scripts\\clock\\model\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\clock\\model\\clockelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|solutionrelative:assets\\scripts\\clock\\model\\clockelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B2CCCC-9D03-D4FB-55A8-610EE078BE50}|ToggleSystem.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\togglesystem\\itoggleable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B2CCCC-9D03-D4FB-55A8-610EE078BE50}|ToggleSystem.csproj|solutionrelative:assets\\scripts\\togglesystem\\itoggleable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B2CCCC-9D03-D4FB-55A8-610EE078BE50}|ToggleSystem.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\togglesystem\\togglehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B2CCCC-9D03-D4FB-55A8-610EE078BE50}|ToggleSystem.csproj|solutionrelative:assets\\scripts\\togglesystem\\togglehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|C:\\UnityProjects\\WebGL Clock\\assets\\scripts\\clock\\model\\elements\\text\\clockelement_text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B89EE0-337D-D968-5D18-C6559AF08C52}|ClockModel.csproj|solutionrelative:assets\\scripts\\clock\\model\\elements\\text\\clockelement_text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Azerty\\AppClock\\Assets\\Scripts\\AppTime\\AppTime_Request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClockElement_ArrowSecond_Controller.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Controller\\ElementController\\ArrowController\\Second\\ClockElement_ArrowSecond_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clock\\Controller\\ElementController\\ArrowController\\Second\\ClockElement_ArrowSecond_Controller.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Controller\\ElementController\\ArrowController\\Second\\ClockElement_ArrowSecond_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clock\\Controller\\ElementController\\ArrowController\\Second\\ClockElement_ArrowSecond_Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:11:46.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClockElement_ArrowMinute_Controller.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Controller\\ElementController\\ArrowController\\Minute\\ClockElement_ArrowMinute_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clock\\Controller\\ElementController\\ArrowController\\Minute\\ClockElement_ArrowMinute_Controller.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Controller\\ElementController\\ArrowController\\Minute\\ClockElement_ArrowMinute_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clock\\Controller\\ElementController\\ArrowController\\Minute\\ClockElement_ArrowMinute_Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:11:48.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClockElement_ArrowHour_Controller.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Controller\\ElementController\\ArrowController\\Hour\\ClockElement_ArrowHour_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clock\\Controller\\ElementController\\ArrowController\\Hour\\ClockElement_ArrowHour_Controller.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Controller\\ElementController\\ArrowController\\Hour\\ClockElement_ArrowHour_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clock\\Controller\\ElementController\\ArrowController\\Hour\\ClockElement_ArrowHour_Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:11:49.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClockController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Controller\\ClockController\\ClockController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clock\\Controller\\ClockController\\ClockController.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Controller\\ClockController\\ClockController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clock\\Controller\\ClockController\\ClockController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:11:10.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppTime_Manager.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\AppTime\\AppTime_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AppTime\\AppTime_Manager.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\AppTime\\AppTime_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AppTime\\AppTime_Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:11:33.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppTime_Calculator.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\AppTime\\AppTime_Calculator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AppTime\\AppTime_Calculator.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\AppTime\\AppTime_Calculator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AppTime\\AppTime_Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:11:29.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppTime_Reciever.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\AppTime\\AppTime_Reciever.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AppTime\\AppTime_Reciever.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\AppTime\\AppTime_Reciever.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AppTime\\AppTime_Reciever.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T18:56:56.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClockElement_Arrow_Controller.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Controller\\ElementController\\ArrowController\\ClockElement_Arrow_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clock\\Controller\\ElementController\\ArrowController\\ClockElement_Arrow_Controller.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Controller\\ElementController\\ArrowController\\ClockElement_Arrow_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clock\\Controller\\ElementController\\ArrowController\\ClockElement_Arrow_Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:11:35.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClockElement_Controller.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Controller\\ElementController\\ClockElement_Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clock\\Controller\\ElementController\\ClockElement_Controller.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Controller\\ElementController\\ClockElement_Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clock\\Controller\\ElementController\\ClockElement_Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:11:17.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Clock_SetTime_Editor.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Controller\\SetTimeEditor\\Clock_SetTime_Editor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clock\\Controller\\SetTimeEditor\\Clock_SetTime_Editor.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Controller\\SetTimeEditor\\Clock_SetTime_Editor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clock\\Controller\\SetTimeEditor\\Clock_SetTime_Editor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:08:14.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UI_Input_DateTime_Accept.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\UI Scripts\\UI_Input_DateTime_Accept.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\UI_Input_DateTime_Accept.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\UI Scripts\\UI_Input_DateTime_Accept.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI Scripts\\UI_Input_DateTime_Accept.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:09:22.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UI_Input_Number.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\UI Scripts\\UI_Input_Number.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\UI_Input_Number.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\UI Scripts\\UI_Input_Number.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI Scripts\\UI_Input_Number.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:09:52.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UI_Toggle_Image.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\UI Scripts\\UI_Toggle_Image.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\UI_Toggle_Image.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\UI Scripts\\UI_Toggle_Image.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI Scripts\\UI_Toggle_Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:09:54.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClockElement_Arrow_Hour.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Elements\\Arrows\\Hour\\ClockElement_Arrow_Hour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clock\\Model\\Elements\\Arrows\\Hour\\ClockElement_Arrow_Hour.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Elements\\Arrows\\Hour\\ClockElement_Arrow_Hour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clock\\Model\\Elements\\Arrows\\Hour\\ClockElement_Arrow_Hour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:50:23.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClockElement_Arrow_Minute.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Elements\\Arrows\\Minute\\ClockElement_Arrow_Minute.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clock\\Model\\Elements\\Arrows\\Minute\\ClockElement_Arrow_Minute.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Elements\\Arrows\\Minute\\ClockElement_Arrow_Minute.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clock\\Model\\Elements\\Arrows\\Minute\\ClockElement_Arrow_Minute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:50:40.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClockElement_Arrow_Second.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Elements\\Arrows\\Second\\ClockElement_Arrow_Second.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clock\\Model\\Elements\\Arrows\\Second\\ClockElement_Arrow_Second.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Elements\\Arrows\\Second\\ClockElement_Arrow_Second.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clock\\Model\\Elements\\Arrows\\Second\\ClockElement_Arrow_Second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:50:36.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClockElement_Arrow.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Elements\\Arrows\\ClockElement_Arrow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clock\\Model\\Elements\\Arrows\\ClockElement_Arrow.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Elements\\Arrows\\ClockElement_Arrow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clock\\Model\\Elements\\Arrows\\ClockElement_Arrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:50:31.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClockElement_Text_DayTime.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Elements\\Text\\DayTime\\ClockElement_Text_DayTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clock\\Model\\Elements\\Text\\DayTime\\ClockElement_Text_DayTime.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Elements\\Text\\DayTime\\ClockElement_Text_DayTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clock\\Model\\Elements\\Text\\DayTime\\ClockElement_Text_DayTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:51:10.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClockElement_Text_Hour.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Elements\\Text\\Hour\\ClockElement_Text_Hour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clock\\Model\\Elements\\Text\\Hour\\ClockElement_Text_Hour.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Elements\\Text\\Hour\\ClockElement_Text_Hour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clock\\Model\\Elements\\Text\\Hour\\ClockElement_Text_Hour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:51:02.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClockElement_Text_Minute.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Elements\\Text\\Minute\\ClockElement_Text_Minute.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clock\\Model\\Elements\\Text\\Minute\\ClockElement_Text_Minute.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Elements\\Text\\Minute\\ClockElement_Text_Minute.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clock\\Model\\Elements\\Text\\Minute\\ClockElement_Text_Minute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:50:58.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClockElement_Text_Second.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Elements\\Text\\Second\\ClockElement_Text_Second.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clock\\Model\\Elements\\Text\\Second\\ClockElement_Text_Second.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Elements\\Text\\Second\\ClockElement_Text_Second.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clock\\Model\\Elements\\Text\\Second\\ClockElement_Text_Second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:50:52.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Clock.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Clock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clock\\Model\\Clock.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Clock.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clock\\Model\\Clock.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:06:48.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClockElement.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\ClockElement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clock\\Model\\ClockElement.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\ClockElement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clock\\Model\\ClockElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:50:11.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IToggleable.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\ToggleSystem\\IToggleable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ToggleSystem\\IToggleable.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\ToggleSystem\\IToggleable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ToggleSystem\\IToggleable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:51:25.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ToggleHandler.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\ToggleSystem\\ToggleHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ToggleSystem\\ToggleHandler.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\ToggleSystem\\ToggleHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ToggleSystem\\ToggleHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:51:30.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClockElement_Text.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Elements\\Text\\ClockElement_Text.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clock\\Model\\Elements\\Text\\ClockElement_Text.cs",
+              "ToolTip": "C:\\UnityProjects\\WebGL Clock\\Assets\\Scripts\\Clock\\Model\\Elements\\Text\\ClockElement_Text.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clock\\Model\\Elements\\Text\\ClockElement_Text.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:50:45.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppTime_Request.cs",
+              "DocumentMoniker": "C:\\Users\\Azerty\\AppClock\\Assets\\Scripts\\AppTime\\AppTime_Request.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Azerty\\AppClock\\Assets\\Scripts\\AppTime\\AppTime_Request.cs",
+              "ToolTip": "C:\\Users\\Azerty\\AppClock\\Assets\\Scripts\\AppTime\\AppTime_Request.cs",
+              "RelativeToolTip": "..\\..\\Users\\Azerty\\AppClock\\Assets\\Scripts\\AppTime\\AppTime_Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:29:35.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

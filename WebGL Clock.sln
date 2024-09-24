@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{01752CAE-195E-CC46-27EA-DF6C4BD3373C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meryel.CodeAssist.Editor", "Meryel.CodeAssist.Editor.csproj", "{62C42EDC-1C3B-C465-A6D1-74E6FF86A99D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{96EBD496-245A-C047-0865-E7B9AB765DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockModel", "ClockModel.csproj", "{E6B89EE0-337D-D968-5D18-C6559AF08C52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTime", "AppTime.csproj", "{398BD1C8-9748-B2DF-B414-1AEC22EB89F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToggleSystem", "ToggleSystem.csproj", "{E6B2CCCC-9D03-D4FB-55A8-610EE078BE50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01752CAE-195E-CC46-27EA-DF6C4BD3373C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01752CAE-195E-CC46-27EA-DF6C4BD3373C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01752CAE-195E-CC46-27EA-DF6C4BD3373C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01752CAE-195E-CC46-27EA-DF6C4BD3373C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62C42EDC-1C3B-C465-A6D1-74E6FF86A99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C42EDC-1C3B-C465-A6D1-74E6FF86A99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C42EDC-1C3B-C465-A6D1-74E6FF86A99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C42EDC-1C3B-C465-A6D1-74E6FF86A99D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96EBD496-245A-C047-0865-E7B9AB765DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96EBD496-245A-C047-0865-E7B9AB765DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96EBD496-245A-C047-0865-E7B9AB765DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96EBD496-245A-C047-0865-E7B9AB765DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6B89EE0-337D-D968-5D18-C6559AF08C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B89EE0-337D-D968-5D18-C6559AF08C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B89EE0-337D-D968-5D18-C6559AF08C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B89EE0-337D-D968-5D18-C6559AF08C52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{398BD1C8-9748-B2DF-B414-1AEC22EB89F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398BD1C8-9748-B2DF-B414-1AEC22EB89F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398BD1C8-9748-B2DF-B414-1AEC22EB89F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398BD1C8-9748-B2DF-B414-1AEC22EB89F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6B2CCCC-9D03-D4FB-55A8-610EE078BE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B2CCCC-9D03-D4FB-55A8-610EE078BE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B2CCCC-9D03-D4FB-55A8-610EE078BE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B2CCCC-9D03-D4FB-55A8-610EE078BE50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
